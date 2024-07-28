@@ -13,15 +13,38 @@
 
 <p align="right"><i>——〔明〕杨慎 《临江仙·滚滚长江东逝水》</i></p><br />
 
-#### [用户][身份]👨🏻‍💻
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yaorenyi&theme=onedark" width="70%"  />  
+</p>
+
+#### [用户][身份]打工人👨🏻‍💻
 
 <p align="center">
    <img src="https://github-readme-wolkasem.vercel.app/api?username=yaorenyi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=prs_merged,prs_merged_percentage&locale=cn" width="43%" />
    <img src="https://github-readme-wolkasem.vercel.app/api/top-langs/?username=yaorenyi&layout=compact&langs_count=6&hide=C,Assembly,Shell,Perl,Makefile,Python,Roff,SmPL,Yacc,C%2B%2B" width="41%" />
 </p>
 
-####[技能]
+#### [用户][属性]学习内容
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yaorenyi&theme=onedark" width="100%"  />  
-</p>
+```js
+export default [
+   '前端', 'Windows', 'python 办公自动化','
+]
+```
+
+#### [用户]基本信息
+```js
+export default {
+   id: 'yaorenyi',
+   name: {
+      zh: '曜',
+      en: 'wolkasem'
+   },
+   sex: '男',
+   age: 28,
+   identity: '职场打工人',
+   mbti: 'ENFP-T',
+   industry：'互联网',
+   location: '银河系，地球，中国，广东省',
+}
+```
