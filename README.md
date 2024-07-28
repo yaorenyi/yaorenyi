@@ -13,7 +13,7 @@
 
 <p align="right"><i>——〔明〕杨慎 《临江仙·滚滚长江东逝水》</i></p><br />
 
-<p align="center">
+<p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=yaorenyi&theme=onedark" width="70%"  />  
 </p>
 
