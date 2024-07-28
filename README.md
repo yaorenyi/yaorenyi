@@ -14,7 +14,7 @@
 <p align="right"><i>——〔明〕杨慎 《临江仙·滚滚长江东逝水》</i></p><br />
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yaorenyicolumn=10&theme=gruvbox&no-frame=true" width=800 />  
+<img src="https://github-profile-trophy.vercel.app/?username=yaorenyi&column=10&theme=gruvbox&no-frame=true" width="90" />  
 </p>
 
 #### [用户][身份]打工人👨🏻‍💻
