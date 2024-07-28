@@ -22,5 +22,5 @@
 ####[技能]
 
 <p align="center">
-<ima src="https://github-readme-wolkasem.vercel.app/api/top-langs/?username=yaorenyi&layout=compact"  width="41%" />
+<img src="https://github-readme-wolkasem.vercel.app/api/top-langs/?username=yaorenyi&layout=compact"  width="41%" />
 </p>
