@@ -16,14 +16,11 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yaorenyi&column=10&theme=gruvbox&no-frame=true" width="110%" />  
 </p>
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaorenyi&theme=merko&custom_title=Louis%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/yaorenyi)
+
+[![wolkasem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaorenyi)](https://github.com/yaorenyi)
 
 #### [用户][身份]打工人👨🏻‍💻
 
-<p align="center">
-   <img src="https://github-readme-wolkasem.vercel.app/api?username=yaorenyi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&show=prs_merged,prs_merged_percentage&locale=cn" width="43%" />
-   <img src="https://github-readme-wolkasem.vercel.app/api/top-langs/?username=yaorenyi&layout=compact&langs_count=6&hide=C,Assembly,Shell,Perl,Makefile,Python,Roff,SmPL,Yacc,C%2B%2B" width="41%" />
-</p>
 
 #### [用户][属性]学习内容
 
