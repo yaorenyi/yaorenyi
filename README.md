@@ -16,6 +16,7 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yaorenyi&column=10&theme=gruvbox&no-frame=true" width="110%" />  
 </p>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yaorenyi&theme=merko&custom_title=Louis%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/yaorenyi)
 
 #### [用户][身份]打工人👨🏻‍💻
 
